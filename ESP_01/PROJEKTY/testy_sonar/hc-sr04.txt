@@ -1,0 +1,1 @@
+Pomaranczowy(VCC), Niebieski(Trig), Bialo-niebieski(Echo), Bialo-pomaranczowy(GND)

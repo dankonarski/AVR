@@ -1,0 +1,11 @@
+USBasp
+1. Intalujesz sterownik.
+2. Zadig 2.7 podmieniasz sterownik po zaintalowaniu na:
+3. W arduino ustawiasz url managera plytek:
+https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
+4. Sciagasz plytki MiniCore.
+4. Ustawiasz programator USBasp slow(minicore).
+
+UART
+1. Wciskasz Wgraj
+2. Gdy skompiluje i rozpoczynna wgrywanie wciskasz RST na plytce.

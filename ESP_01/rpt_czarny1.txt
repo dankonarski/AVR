@@ -1,0 +1,33 @@
+#####################
+__________________________
+
+Firmware: 
+    Chip Id: 005B8320
+    Core version: 3.0.2
+    SDK version: 2.2.1(cfd48f3)
+    Boot version: 31
+    Boot mode: 1
+__________________________
+
+Flash chip information: 
+    Flash chip Id: 00146085 (for example: Id=001640E0  Manuf=E0, Device=4016 (swap bytes))
+    Sketch thinks Flash RAM is size: 1.00 MB
+    Actual size based on chip Id: 1.00 MB ... given by (2^( "Device" - 1) / 8 / 1024
+    Flash frequency: 40.00 MHz
+    Flash write mode: DOUT
+__________________________
+
+File system (SPIFFS): 
+    Total KB: 51.72 KB
+    Used KB: 32.60 KB
+    Block size: 4096
+    Page size: 256
+    Maximum open files: 5
+    Maximum path length: 32
+
+SPIFFS directory {/} :
+__________________________
+
+CPU frequency: 80 MHz
+
+#####################
